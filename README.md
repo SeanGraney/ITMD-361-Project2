@@ -1,2 +1,1 @@
-# ITMD-361-Project
-Three html pages. (Resume, Esport profile, Music) 
+Adding css to the initial html project
