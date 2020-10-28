@@ -1,0 +1,386 @@
+/***************************Tag Selectors***************************************/
+body{
+  text-align: center;
+  background-color: #c375ff;
+  font-size: 150%;
+}
+h3, h2, h4{
+  color: #ff4da6;
+  font-family: 'Exo', sans-serif;
+
+}
+p{
+  color: #ffb3d9;
+  font-family: 'Yantramanav', sans-serif;
+  text-align: left;
+}
+ul{
+  list-style-type: circle;
+  color: #ffb3d9;
+  font-family: 'Yantramanav', sans-serif;
+  text-align: left;
+}
+ol{
+  list-style-type: upper-roman;
+  color: #ffb3d9;
+  font-family: 'Yantramanav', sans-serif;
+  text-align: left;
+}
+
+/***************************Class Selectors***************************************/
+.ajr {
+  width: 1100px;
+  height: 850px;
+  position: relative;
+  z-index: 1;
+}
+.also-me {
+  width: 100%;
+  height: 500px;
+}
+.artists {
+  list-style-type: none;
+  text-decoration: none;
+  display: inline;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+}
+.beatles {
+  width: 1100px;
+  height: 850px;
+  position: relative;
+  z-index: 1;
+}
+.bird {
+  position: absolute;
+  top: 2%;
+  height: 40%;
+  width: 35%;
+}
+.body1 {
+  background-color: #BFEFFF;
+}
+.body3 {
+  background-color: #970fff;
+}
+.chicago {
+  position: absolute;
+  height: 80%;
+  top: 0%;
+  left: 0;
+  margin: 0;
+
+  width: 100%;
+  z-index: -1;
+}
+.cloud {
+  position: absolute;
+  left: 60%;
+  top: 10%;
+  z-index: 2;
+}
+.cloud2 {
+  position: absolute;
+  left: 1px;
+  top: 10%;
+  z-index: 2;
+}
+.clist {
+  margin-left: 17%
+}
+.contact {
+  padding-top: 200px;
+  text-shadow: 2px 2px 5px black;
+  font-size: 400%;
+  color: #db7093;
+}
+.cpp {
+  text-align: center;
+}
+.edu{
+  text-align: center;
+}
+.fixes {
+  text-align: center;
+}
+.form {
+  background-color: lightpink;
+}
+.formlabel {
+  color: #ff4da6;
+  font-size: 120%;
+  font-family: 'Exo', sans-serif;
+}
+.frost {
+  position: relative;
+  margin-right: 10%;
+  float: right;
+  width: 25%;
+  height: 25%;
+}
+.fun {
+  width: 1100px;
+  height: 850px;
+  position: relative;
+  z-index: 1;
+}
+.games {
+  position: relative;
+  margin-top: 15%;
+  margin-right: 10%;
+  float: right;
+  font-size: 120%
+
+}
+.hip {
+  position: relative;
+  background-color: #c375ff;
+  padding-top: 5%;
+  z-index: -2;
+}
+.horz{
+  position: fixed;
+  padding-top: 2%;
+  left: 25%;
+  font-family: 'Turret Road', cursive;
+  z-index: 5;
+  }
+.horz ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+.horz ul li {
+  display: inline;
+  margin: 0 15px;
+}
+.horz ul li a {
+  display: inline-block;
+  background-color: #660198;
+  color: #ffb3d9;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  height: 50px;
+  width: 200px;
+  padding: 10px 0 8px 0;
+  border-radius: 8px;
+}
+.horz ul li a:hover{
+  background-color: #ffb3d9;
+  color: #660198;
+  border-radius: 20px;
+}
+.iit {
+  position: absolute;
+  top: 20px;
+  right: 63%;
+  border-radius: 50%;
+  border: 5px solid black;
+}
+.ind {
+  background-color: #ad42ff;
+  padding-top: 5%;
+}
+.ink {
+  text-decoration: underline;
+}
+.inkling {
+  width: 30%;
+  height: 30%;
+  float: right;
+  margin-right: 5%;
+}
+.kanye {
+  width: 1100px;
+  height: 850px;
+  position: relative;
+  z-index: 1;
+}
+.main {
+  position: relative;
+  bottom: 435px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #4b0082;
+}
+.me {
+  margin-top: 200px;
+  border-radius: 50%;
+  border: 5px solid black;
+}
+.old{
+  background-color: #970fff;
+  padding-top: 5%;
+}
+.pjobs {
+  position: relative;
+  left: 25%;
+  text-align: center;
+  width: 250px;
+}
+.pop {
+  background-color: #b85cff;
+  padding-top: 5%;
+}
+.popr {
+  background-color: #a229ff;
+  padding-top: 5%;
+}
+.post {
+  width: 1100px;
+  height: 850px;
+  position: relative;
+  z-index: 1;
+}
+.ppicture {
+  position: absolute;
+  top: 62%;
+  left: 37%;
+  width: 20%;
+  background-color: #ffb3d9;
+  margin-right: 30px;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 50%;
+  border: 5px solid black;
+}
+.rank {
+  margin-left: 16%;
+}
+.r1{
+  font-size: 100%;
+  text-shadow: 2px 2px 5px black;
+  text-align: center;
+}
+.r2{
+  font-size: 150%;
+  text-shadow: 4px 4px 10px black;
+  text-align: center;
+}
+.r3{
+  font-size: 200%;
+  text-shadow: 8px 8px 20px black;
+  margin-top: 20px;
+  text-align: center;
+}
+.sec {
+  text-align: center;
+}
+.sec1 {
+  position: relative;
+  left: 5%;
+  text-align: center;
+  width: 600px;
+}
+.sec2 {
+  position: relative;
+  left: 55%;
+  text-align: center;
+  width: 600px;
+}
+.sec3 {
+  position: relative;
+  left: 5%;
+  text-align: center;
+  width: 600px;
+}
+.sec4 {
+  position: relative;
+  left: 55%;
+  text-align: center;
+  width: 600px;
+}
+.skills {
+  position: relative;
+  left: 37%;
+  text-align: left;
+  width: 100px;
+}
+.skyline {
+  position: relative;
+  bottom: 400px;
+  width: 100%;
+  z-index: 1
+}
+.smash {
+  position: relative;
+  margin-top: 5%;
+  margin-right: 18%;
+  width: 15%;
+  background-color: #ffb3d9;
+  border-radius: 50%;
+  border: 5px solid black;
+  padding: 30px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+.submit {
+  color: #ffb3d9;
+  background-color: #660198;
+}
+.title {
+  position: relative;
+  top: 250px;
+  text-shadow: 2px 2px 5px #9400D3;
+  font-size: 200%;
+  color: #db7093;
+  font-family: 'Turret Road', cursive;
+  z-index: 3;
+}
+.title2 {
+  position: relative;
+  top: 250px;
+  text-shadow: 2px 2px 5px #9400D3;
+  font-size: 150%;
+  color: #db7093;
+  font-family: 'Turret Road', cursive;
+  z-index: 3;
+}
+.title3 {
+  text-shadow: 2px 2px 5px #9400D3;
+  font-size: 400%;
+  color: #db7093;
+  font-family: 'Turret Road', cursive;
+}
+.title4 {
+  padding-top: 15%;
+  text-shadow: 2px 2px 5px black;
+  font-size: 400%;
+  color: #db7093;
+  font-family: 'Turret Road', cursive;
+}
+.title5 {
+  color: #db7093;
+  font-size: 200%;
+}
+.title6 {
+  color: #db7093;
+}
+.top {
+  height: 1100px;
+  background-color: #BFEFFF;
+}
+.topp {
+  text-align: center;
+}
+.tourny-list {
+  margin-left: 15%;
+  font-size: 120%
+}
+.video2 {
+  float: right;
+  margin-right: 5%
+}
+
+/***************************ID Selectors***************************************/
+#wrapper {
+  width: 1520px
+}
+#wrapper2 {
+  width: 98%;
+  margin-right: 1%;
+  margin-left: 1%;
+}
